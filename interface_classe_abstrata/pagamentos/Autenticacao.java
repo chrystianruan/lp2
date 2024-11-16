@@ -1,0 +1,4 @@
+interface Autenticacao {
+    boolean autenticar();
+}
+
